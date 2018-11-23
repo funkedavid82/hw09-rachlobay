@@ -1,7 +1,19 @@
 # Make Activity
 =============
 
-## Table of Contents
+## Important links
+
+|               | Quick and important links|
+| ------------- |-------------|
+|  :heavy_check_mark: | [Makefile](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/Makefile)| 
+|  :heavy_check_mark: | [makefile2dot.py (for generating graph of homework pipeline)](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/makefile2dot.py)| 
+|  :heavy_check_mark: | [words_vowel_consonants.R (added R file)](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/words_vowel_consonants.R)| 
+|  :heavy_check_mark: | [vowels_consonants_report.md (added .md file)](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/vowels_consonants_report.md)| 
+|  :heavy_check_mark: | [vowels_consonants_report.Rmd (added .Rmd file)](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/vowels_consonants_report.Rmd)| 
+|  :heavy_check_mark: | [vowels_consonants_report.html (added .html file](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/vowels_consonants_report.html)| 
+|  :heavy_check_mark: | [words.txt](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/words.txt)| 
+
+## Table of Contents for the README.md
 - [Purpose and objectives of this homework assignment](#purpose-and-objectives-of-this-homework-assignment)
 - [Graph of my pipeline for this homework](#graph-of-my-pipeline-for-this-homework)
 - [What I changed and added to the original pipeline](#what-I-changed-and-added-to-the-original-pipeline)
@@ -9,7 +21,6 @@
     + [Rmd file](#rmd-file)
     + [Graph of the homework pipeline](#graph-of-the-homework-pipeline)
 - [End credits](#end-credits)    
-
 
 
 ## Purpose and objectives of this homework assignment
