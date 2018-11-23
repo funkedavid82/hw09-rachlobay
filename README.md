@@ -10,7 +10,7 @@
 |  :heavy_check_mark: | [words_vowel_consonants.R (added R file)](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/words_vowel_consonants.R)| 
 |  :heavy_check_mark: | [vowels_consonants_report.md (added .md file)](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/vowels_consonants_report.md)| 
 |  :heavy_check_mark: | [vowels_consonants_report.Rmd (added .Rmd file)](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/vowels_consonants_report.Rmd)| 
-|  :heavy_check_mark: | [vowels_consonants_report.html (added .html file](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/vowels_consonants_report.html)| 
+|  :heavy_check_mark: | [vowels_consonants_report.html (added .html file)](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/vowels_consonants_report.html)| 
 |  :heavy_check_mark: | [words.txt](https://github.com/STAT545-UBC-students/hw09-rachlobay/blob/master/words.txt)| 
 
 ## Table of Contents for the README.md
