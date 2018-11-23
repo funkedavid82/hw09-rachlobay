@@ -12,19 +12,15 @@ From the  235886 words containted in the attached words.txt file, I computed the
 
 ![*Fig. 1* A histogram of the number of vowels in words](words_vowels.png)
 
-```{r load-hist-vowels-dat, include = FALSE}
-vowels_data <- read.delim("words_vowels.tsv")
-```
 
-The most common number of vowels is `r with(vowels_data, vowels[which.max(vowels_data$Freq)])`.
+
+The most common number of vowels is 4.
 
 
 Now, since we looked at the numbers of vowels in the words, naturally we'd also look at the number of consonants in the words. 
 
 ![*Fig. 2* A histogram of the number of consonants in words](words_consonants.png)
 
-```{r load-hist-consonants-dat, include = FALSE}
-consonants_data <- read.delim("words_consonants.tsv")
-```
 
-The most common number of consonants is `r with(consonants_data, consonants[which.max(consonants_data$Freq)])`.
+
+The most common number of consonants is 5.
